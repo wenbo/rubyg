@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<document>
+ <abstract>How to learn Ruby</abstract>
+ <chapter><title>Ruby Programming</title>
+  <section difficulty="very low"><title>Introduction</title></section>
+  <section difficulty="low"><title>Syntax</title>
+   <subsection><title>Literal</title></subsection>
+   <subsection><title>Operator &amp; Precedence</title></subsection>
+  </section>
+  <section difficulty="high"><title>Metaprogramming</title></section>
+ </chapter>
+</document>
